@@ -1,6 +1,6 @@
 # About Us
 
-![](https://one2n.in/wp-content/uploads/2023/04/One2N-Collage-for-GitHub.png)
+![](https://one2n.in/wp-content/uploads/2023/04/One2N-Collage-for-GitHub-compressed.png)
 
 
 At [One2N](https://one2n.in/), We’re a boutique firm helping businesses with their backend software system needs. 
